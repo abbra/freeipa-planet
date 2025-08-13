@@ -106,8 +106,8 @@
 		<foaf:Agent>
 			<foaf:name>Nathaniel McCallum</foaf:name>
 			<foaf:weblog>
-				<foaf:Document rdf:about="https://npmccallum.gitlab.io/">
-					<dc:title>Nathaniel McCallum</dc:title>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
 					<rdfs:seeAlso>
 						<rss:channel rdf:about="https://npmccallum.gitlab.io/index.xml" />
 					</rdfs:seeAlso>

@@ -3218,6 +3218,12 @@ future investigations.&lt;/p&gt;</description>
 	<pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
 </item>
 <item>
+	<title>Nathaniel McCallum: Posts</title>
+	<guid>https://npmccallum.gitlab.io/post/</guid>
+	<link>https://npmccallum.gitlab.io/post/</link>
+	<pubDate>Thu, 18 Nov 2021 21:05:01 +0000</pubDate>
+</item>
+<item>
 	<title>Fraser Tweedale: Bare TCP and UDP ingress on Kubernetes</title>
 	<guid>https://frasertweedale.github.io/blog-redhat/posts/2021-11-18-k8s-tcp-udp-ingress.html</guid>
 	<link>https://frasertweedale.github.io/blog-redhat/posts/2021-11-18-k8s-tcp-udp-ingress.html</link>
@@ -4995,6 +5001,23 @@ probe sdap_search_send = process(&lt;span class=&quot;hljs-string&quot;&gt;&quot
   -XDELETE https://localhost:9200/my-index.2017.03.15
 &lt;/code&gt;&lt;/pre&gt;&lt;br /&gt;If you need to recover this data, or deletion is not working, then use the&lt;br /&gt;recovery procedure documented at&lt;br /&gt;&lt;a href=&quot;https://www.elastic.co/guide/en/elasticsearch/reference/1.5/indices-recovery.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;indices recovery&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Wed, 15 Mar 2017 17:45:33 +0000</pubDate>
+</item>
+<item>
+	<title>Nathaniel McCallum: About Nathaniel McCallum</title>
+	<guid>https://npmccallum.gitlab.io/about/</guid>
+	<link>https://npmccallum.gitlab.io/about/</link>
+	<description>&lt;p&gt;Nathaniel McCallum is a Principal Software Engineer at &lt;a href=&quot;https://www.redhat.com&quot;&gt;Red Hat&lt;/a&gt; where
+he develops security related technologies.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re looking for someone to blame for software projects such as
+&lt;a href=&quot;https://github.com/freeotp&quot;&gt;FreeOTP&lt;/a&gt;, &lt;a href=&quot;https://github.com/latchset/jose&quot;&gt;José&lt;/a&gt;, &lt;a href=&quot;https://github.com/latchset/clevis&quot;&gt;Clevis&lt;/a&gt; and &lt;a href=&quot;https://github.com/latchset/tang&quot;&gt;Tang&lt;/a&gt;, Nathaniel
+is the guy. He also regularly breaks projects such as &lt;a href=&quot;https://www.freeipa.org&quot;&gt;FreeIPA&lt;/a&gt; and
+&lt;a href=&quot;https://web.mit.edu/kerberos&quot;&gt;MIT Kerberos&lt;/a&gt; with his &amp;ldquo;contributions.&amp;rdquo; Not satisfied with unleashing
+poor software on the world, he works on dismantling the Internet via new IETF
+Internet Drafts and dabbling in cryptography.&lt;/p&gt;
+&lt;p&gt;Outside the office, he tries to corrupt the minds of the youth through
+philosophy. His legacy of destruction is all but ensured due to his five
+children. Also, his wife tolerates him.&lt;/p&gt;</description>
+	<pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Simo Sorce: Distributing Secrets with Custodia</title>

@@ -31,6 +31,7 @@
 			<rdf:li rdf:resource="http://adam.younglogic.com/?p=10285" />
 			<rdf:li rdf:resource="https://frasertweedale.github.io/blog-redhat/posts/2022-03-24-k8s-external-dns.html" />
 			<rdf:li rdf:resource="https://frasertweedale.github.io/blog-redhat/posts/2022-02-02-openshift-user-ns-without-anyuid.html" />
+			<rdf:li rdf:resource="https://npmccallum.gitlab.io/post/" />
 			<rdf:li rdf:resource="https://frasertweedale.github.io/blog-redhat/posts/2021-11-18-k8s-tcp-udp-ingress.html" />
 			<rdf:li rdf:resource="https://frasertweedale.github.io/blog-redhat/posts/2021-10-15-openshift-userns-in-container.html" />
 			<rdf:li rdf:resource="https://frasertweedale.github.io/blog-redhat/posts/2021-07-22-openshift-systemd-workload-demo.html" />
@@ -43,6 +44,7 @@
 			<rdf:li rdf:resource="http://strikerttd.wordpress.com/?p=197" />
 			<rdf:li rdf:resource="tag:blogger.com,1999:blog-8317082414319754746.post-4779932653839170767" />
 			<rdf:li rdf:resource="https://richmegginson.livejournal.com/29454.html" />
+			<rdf:li rdf:resource="https://npmccallum.gitlab.io/about/" />
 			<rdf:li rdf:resource="tag:ssimo.org.blog:id_021" />
 			<rdf:li rdf:resource="http://preichl.wordpress.com/?p=43" />
 			<rdf:li rdf:resource="tag:ssimo.org.blog:id_020" />
@@ -3261,6 +3263,11 @@ between containers and the host. This issue will be the subject of
 future investigations.&lt;/p&gt;</content:encoded>
 	<dc:date>2022-02-02T00:00:00+00:00</dc:date>
 </item>
+<item rdf:about="https://npmccallum.gitlab.io/post/">
+	<title>Nathaniel McCallum: Posts</title>
+	<link>https://npmccallum.gitlab.io/post/</link>
+	<dc:date>2021-11-18T21:05:01+00:00</dc:date>
+</item>
 <item rdf:about="https://frasertweedale.github.io/blog-redhat/posts/2021-11-18-k8s-tcp-udp-ingress.html">
 	<title>Fraser Tweedale: Bare TCP and UDP ingress on Kubernetes</title>
 	<link>https://frasertweedale.github.io/blog-redhat/posts/2021-11-18-k8s-tcp-udp-ingress.html</link>
@@ -5027,6 +5034,22 @@ probe sdap_search_send = process(&lt;span class=&quot;hljs-string&quot;&gt;&quot
   -XDELETE https://localhost:9200/my-index.2017.03.15
 &lt;/code&gt;&lt;/pre&gt;&lt;br /&gt;If you need to recover this data, or deletion is not working, then use the&lt;br /&gt;recovery procedure documented at&lt;br /&gt;&lt;a href=&quot;https://www.elastic.co/guide/en/elasticsearch/reference/1.5/indices-recovery.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;indices recovery&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2017-03-15T17:45:33+00:00</dc:date>
+</item>
+<item rdf:about="https://npmccallum.gitlab.io/about/">
+	<title>Nathaniel McCallum: About Nathaniel McCallum</title>
+	<link>https://npmccallum.gitlab.io/about/</link>
+	<content:encoded>&lt;p&gt;Nathaniel McCallum is a Principal Software Engineer at &lt;a href=&quot;https://www.redhat.com&quot;&gt;Red Hat&lt;/a&gt; where
+he develops security related technologies.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re looking for someone to blame for software projects such as
+&lt;a href=&quot;https://github.com/freeotp&quot;&gt;FreeOTP&lt;/a&gt;, &lt;a href=&quot;https://github.com/latchset/jose&quot;&gt;José&lt;/a&gt;, &lt;a href=&quot;https://github.com/latchset/clevis&quot;&gt;Clevis&lt;/a&gt; and &lt;a href=&quot;https://github.com/latchset/tang&quot;&gt;Tang&lt;/a&gt;, Nathaniel
+is the guy. He also regularly breaks projects such as &lt;a href=&quot;https://www.freeipa.org&quot;&gt;FreeIPA&lt;/a&gt; and
+&lt;a href=&quot;https://web.mit.edu/kerberos&quot;&gt;MIT Kerberos&lt;/a&gt; with his &amp;ldquo;contributions.&amp;rdquo; Not satisfied with unleashing
+poor software on the world, he works on dismantling the Internet via new IETF
+Internet Drafts and dabbling in cryptography.&lt;/p&gt;
+&lt;p&gt;Outside the office, he tries to corrupt the minds of the youth through
+philosophy. His legacy of destruction is all but ensured due to his five
+children. Also, his wife tolerates him.&lt;/p&gt;</content:encoded>
+	<dc:date>2017-02-16T00:00:00+00:00</dc:date>
 </item>
 <item rdf:about="tag:ssimo.org.blog:id_021">
 	<title>Simo Sorce: Distributing Secrets with Custodia</title>
